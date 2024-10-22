@@ -1,0 +1,17 @@
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  font-family: Arial, sans-serif; /* Set default font family */
+  background-image: url('../src/assets/race_track_v2.jpg'); /* Specify background image URL */
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent background image from repeating */
+  background-attachment: fixed; 
+  height: 100vh; /* Set full viewport height */
+  overflow: auto; /* Allow content to be scrolled if necessary */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
